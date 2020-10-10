@@ -1,27 +1,4 @@
-# CodeForNepal monthly meeting summaries for the year 2020 
-
-
-## June
-
-- Digital literacy is extremely important, especially in the post-pandemic world. Pratima and others to work on a plan of how we carry out our mission. 
-- Sweta would like to create instructional materials for people to learn how to use basic digital applications and explore the possibility to engage/involve her class in the future. 
-- Asmita and Sukriti are happy to work with Sweta. 
-- Ishan and Pratima are working on developing the site.
-- Sukriti has a few ideas, she would like to share and work on. 
-
-
-## July
-
-- Activate the Slack channel and share it with David. Here’s the [link!](https://join.slack.com/t/codefornepal/shared_invite/zt-fm07r7gz-97iagKnDNJ3DbX8QKR6Bxg) 
-- Anshu will reach out to students for internships 
-- Bi-weekly DataViz
-- Share syllabus 
-- Get a demo of the projects we have -- and share with everyone including David 
-- Create a Doodle for a new meeting time 
-- Work on the website -- Ravi to follow up with Ishan and Pratima and others           
-
-
-## August
+# Meeting Notes
 
 - Sukriti, Pratima and Ravi will work on a blog post for Code for Nepal
 - Dipak will work on Google Ad. Ravi will share details with him. 
@@ -36,5 +13,3 @@
 - The team agreed to launch the new website of Code for Nepal before Sept. 15. David will manage next steps and assign us tasks. 
 - The team agreed to post the meeting minutes on Github too. We need to set up a repo
 - Sukriti will be our host for the next monthly meeting (September)
-
-
